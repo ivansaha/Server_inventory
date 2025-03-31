@@ -2,7 +2,8 @@
 
 # Author: Ivan Saha
 # Date 03/31/2025
-# Inventory script for servers
+# Inventory script for servers 
+# This script will be used to decomm all non managed servers in the data center
 
 echo "This file contains a script that will help us generate the inventory of any decommissioned servers"
 sleep 2
